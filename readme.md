@@ -35,4 +35,4 @@ list of dep:
 
 ## 5. launch emacs
 
-- read ./manual.org and enojoy bitch
+- read ./manual.org and enjoy bitch

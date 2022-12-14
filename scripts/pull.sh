@@ -1,3 +1,3 @@
 git pull origin master
 
-cp ~/PROJECTS/doom_emacs/.doom.d ~/.doom.d
+cp -rf ~/PROJECTS/doom_emacs/.doom.d ~/.doom.d
