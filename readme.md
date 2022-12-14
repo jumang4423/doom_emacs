@@ -31,4 +31,8 @@ compile_emacs_bitch
 list of dep:
 - node v16
 - prettier
-- sbcl 
+- sbcl
+
+## 5. launch emacs
+
+- read ./manual.org and enojoy bitch
