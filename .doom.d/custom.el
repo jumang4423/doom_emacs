@@ -169,3 +169,7 @@
   (setq recentf-auto-save-timer (run-with-idle-timer 30 t 'recentf-save-list))
   (recentf-mode 1)
   (global-set-key (kbd "\C-c t") 'helm-recentf))
+
+;; fzf
+(progn
+  (global-set-key (kbd "C-c f") 'fzf))
